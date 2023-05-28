@@ -22,7 +22,7 @@ const Navbar = () => {
     <nav>
       <div className='nav-center'>
         <div className='nav-header'>
-          <img  className='logo' alt='ZORO' />
+          <img  className='logo' alt='ZOROUDHAYA' />
           <button className='nav-toggle' onClick={toggleLinks}>
             <FaBars />
           </button>
